@@ -5,11 +5,11 @@
 
 ## Usage:
 
-- a simple bsod with windows startup
+- Simple Blue Screen of Death with windows startup
 
-- you can exe with modules like pyinstaller etc if you want
+- Please do not run it on your own computer!
 
-- please do not run it on your own computer!
+- You can exe with modules like pyinstaller etc if you want
 
 - If you don't want windows startup, you can delete the codes from line 5 to line 12 (including 5 and 12)
 
